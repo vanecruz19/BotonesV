@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Botones</string>
+
+    style="@style/Widget.MaterialComponents.Button.Icon"
+    app:icon="@android:drawable/ic_input_add"
+
+</resources>
